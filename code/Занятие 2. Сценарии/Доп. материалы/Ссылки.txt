@@ -1,0 +1,5 @@
+Описание компонентов JMeter http://jmeter.apache.org/usermanual/component_reference.html
+
+Описание функций JMeter http://jmeter.apache.org/usermanual/functions.html
+
+Различные способы чтения данных из CSV-файлов http://software-testing.ru/library/testing/general-testing/1841-jmeter-csv

@@ -1,0 +1,7 @@
+Mantis Bug Tracker 
+https://www.mantisbt.org
+
+
+Инструкция по установке Mantis на веб-сервер XAMPP 
+http://software-testing.ru/lms/mod/page/view.php?id=46125
+

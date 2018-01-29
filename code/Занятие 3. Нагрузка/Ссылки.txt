@@ -1,0 +1,9 @@
+Онлайн-сервисы для "ручного" тестирования производительности
+
+https://tools.pingdom.com/
+
+https://gtmetrix.com/
+
+https://www.webpagetest.org/
+
+https://developers.google.com/speed/pagespeed/insights/

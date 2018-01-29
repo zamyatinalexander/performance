@@ -1,0 +1,19 @@
+Apache JMeter 
+http://jmeter.apache.org
+
+Инструкция по установке Java на Windows 
+http://barancev.github.io/how-to-install-java-on-windows/
+
+Инструкция по установке локального веб-сервера на Windows Гиперссылка
+https://selenium2.ru/articles/136-installing-xampp.html
+
+Внимание: не берите версию XAMPP, в состав которой входит PHP 7, учебное приложение в этой версии не будет работать!!!
+
+
+Плагины для JMeter 
+https://jmeter-plugins.org
+
+Прокси-сервера, которые можно использовать для отладки
+http://alternativeto.net/software/fiddler/
+
+

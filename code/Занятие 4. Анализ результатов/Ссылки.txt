@@ -1,0 +1,6 @@
+loadosophia (онлайновый анализатор результатов работы JMeter)
+http://loadosophia.org/
+
+
+Rapid Miner
+https://rapidminer.com/products/studio/
